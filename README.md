@@ -2,6 +2,7 @@ git clone --depth=1 https://github.com/htr-tech/DanZohacker.git
 cd DanZohacker 
 bash DanZohacker.sh
 
+DanZo virus user-
 pkg Install tur-repo
 pkg Install DanZohacker
 DanZohacker 
